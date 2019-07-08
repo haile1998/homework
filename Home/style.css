@@ -43,6 +43,7 @@ a:hover {
 .tag {
 	font-family: 'Ubuntu', serif;
 	font-size: 14px;
+	margin-top: 20px;
 }
 .section {
 	width: 80%;
